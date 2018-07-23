@@ -1,4 +1,4 @@
-# Quasinormal modes in Einstein-Maxwell-Dilaton
+# Quasinormal modes of weakly charged Einstein-Maxwell-dilaton black holes
 These notebooks contain detailed derivations and calculations
 of perturbations of black hole solutions in Einstein-Maxwell-Dilaton.
 
