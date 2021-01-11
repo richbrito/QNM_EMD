@@ -20,7 +20,7 @@ cpacilio@sissa.it
 
 richard.brito@aei.mpg.de
 
-If you make use of this code for your own publications, please cite:
+If you make use of these notebooks for your own publications, please cite:
 ```
 @article{Brito:2018hjh,
     author = "Brito, Richard and Pacilio, Costantino",
