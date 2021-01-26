@@ -12,7 +12,7 @@ of perturbations of black hole solutions in Einstein-Maxwell-Dilaton.
 
 
 
-# Credits
+## Credit
 
 These notebooks are developed and maintained by Costantino Pacilio and Richard Brito. Please, report any issues to
 
